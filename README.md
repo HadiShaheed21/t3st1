@@ -44,4 +44,4 @@ therapy-bot/
 - For production, remove `--reload` from `run.sh` and use a process manager.
 
 ## License
-MIT 
+MIT .
